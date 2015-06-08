@@ -1,5 +1,11 @@
 # Changelog - chrome.dart
 
+## 0.6.5 2014-11-06
+- fixed an issue with Port.onMessage() and Port.sendMessage()
+
+## 0.6.4 2014-10-19
+- fixed an issue with double loading compiled JavaScript files
+
 ## 0.6.3 2014-08-29 (SDK 1.6.0-dev.9.7 r39537)
 - removed dependency loop in `files_exp.dart` and `files.dart`
 
